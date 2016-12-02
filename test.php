@@ -1,1 +1,2 @@
+TESTING
 <?PHP phpinfo() ?>
